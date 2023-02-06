@@ -28,3 +28,9 @@ a[href="https://bcit.ca"] {
     background-color: yellow;
 
 }
+img {
+    float: left;
+}
+.below{
+    clear:left;
+}
