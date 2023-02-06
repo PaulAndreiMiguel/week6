@@ -8,3 +8,23 @@ h2 + p {
     border-bottom: gray solid 1px;  
 list-style: none;
 }
+
+li > a:link{
+    color: green;
+
+}
+li > a:visited {
+    color: red;
+
+}
+li > a:hover{
+    background-color: pink;
+}
+li:first-child::first-letter {
+    font-size: 120%;
+    font-weight: bold;
+}
+a[href="https://bcit.ca"] {
+    background-color: yellow;
+
+}
