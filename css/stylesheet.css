@@ -47,3 +47,18 @@ img {
   border: 2px gray solid;
 } */
 
+h1 {
+    background-color: aqua;
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.cooks{
+    background-color: bisque;
+    font-weight: bold;
+    border-style: dotted;
+}
